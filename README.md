@@ -3,7 +3,7 @@
 ### 💻 Aspiring Software Developer | Passionate about learning and building sofrwares.
 - 📫 How to reach me angelabhungane@gmail.com
 
-- 📄 Know about my experiences [https://profile.indeed.com/p/dlozim-ysc1f5u](https://www.linkedin.com/in/bongeka-bhungane-623a6a252/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/bongeka-bhungane-623a6a252/)
 
 - 📚 Documenting my journey and sharing beginner-friendly projects
 
