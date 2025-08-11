@@ -1,6 +1,6 @@
 ## Hi there 👋, My name is Bongeka Bhungane.
 
-### 💻 Aspiring Software Developer | Passionate about learning and building sofrwares.
+### 💻 A Software Developer | Passionate about learning and building sofrwares.
 - 📫 How to reach me angelabhungane@gmail.com
 
 - 📄 Know about my experiences (https://www.linkedin.com/in/bongeka-bhungane-623a6a252/)
